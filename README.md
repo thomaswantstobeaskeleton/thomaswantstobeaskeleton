@@ -1,9 +1,9 @@
 ## About Me
 
 - Currently working on: **BallonsTranslator-Pro**
-- Interested in: **Python, UI/UX, automation, AI tools, translation workflows**
+- Interested in: **Translation tools, Philosophy, Progress in Tech**
 - Learning more about: **Qt, app design, model integration, and performance optimization**
-- I like projects that are practical, fast, and actually nice to use.
+- I like projects that are practical, and actually nice to use.
 
 ---
 
