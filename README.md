@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Thomas 👋
+# Hey, I'm thomas
 
 ### Developer • Builder • Problem Solver
 
