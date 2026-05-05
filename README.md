@@ -16,7 +16,7 @@ A customized and improved translation/editing workflow for manga, comics, images
 Things I care about in this project:
 
 - Better UI and workflow
-- Cleaner right-click menus and quick actions
+- Cleaner setup and configuration
 - Better review tools
 - Faster setup for AI/LLM modules
 - Practical fixes that users actually notice
