@@ -25,6 +25,6 @@ Things I care about in this project:
 
 <div align="center">
 
-[![GitHub](<img width="500" height="500" alt="icon2" src="https://github.com/user-attachments/assets/4b4f54d9-104b-4a00-8b66-b91514d6ebe1" />)](https://github.com/thomaswantstobeaskeleton/BallonsTranslator-Pro)
+[![GitHub](icon2.png)](https://github.com/thomaswantstobeaskeleton/BallonsTranslator-Pro)
 
 </div>
