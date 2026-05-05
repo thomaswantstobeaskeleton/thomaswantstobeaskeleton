@@ -7,7 +7,7 @@
 
 ---
 
-## Featured Project
+## Main Project
 
 ### BallonsTranslator-Pro
 
@@ -23,10 +23,8 @@ Things I care about in this project:
 
 ---
 
-## Contact
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/thomaswantstobeaskeleton)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/thomaswantstobeaskeleton/BallonsTranslator-Pro)
 
 </div>
