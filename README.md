@@ -1,9 +1,8 @@
-## About Me
+## languages
 
-- Currently working on: **BallonsTranslator-Pro**
-- Interested in: **Translation tools, Philosophy, Progress in Tech**
-- Learning more about: **Qt, app design, model integration, and performance optimization**
-- I like projects that are practical, and actually nice to use.
+java
+javascript
+rest are too hard fuck no
 
 ---
 
