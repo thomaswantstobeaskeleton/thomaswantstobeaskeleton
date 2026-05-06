@@ -1,7 +1,7 @@
 ## languages
 
-java
-javascript
+- java
+- javascript
 rest are too hard fuck no
 
 ---
