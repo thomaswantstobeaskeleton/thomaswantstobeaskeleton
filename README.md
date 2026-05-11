@@ -1,9 +1,4 @@
-## languages
 
-- java
-- javascript
-
----
 
 ## Main Project
 
